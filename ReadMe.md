@@ -36,27 +36,6 @@ The population data used in this analysis is sourced from the World Bank, specif
    - **World Population Trend**: A line graph illustrating the total world population from 1960 to 2022.
    - **Population Density**: A bar chart displaying the population density of specific countries in 2023.
 
-## Data Visualization Examples
-
-### Total Population Comparison for Selected Countries
-
-![Population Comparison](path_to_population_comparison_image)
-
-### Population Growth in India (1960-2022)
-
-![India Population Growth](path_to_india_population_growth_image)
-
-### Population Distribution by Continent in 2022
-
-![Population Distribution](path_to_population_distribution_image)
-
-### World Population Trend (1960-2022)
-
-![World Population Trend](path_to_world_population_trend_image)
-
-### Population Density of Specific Countries in 2023
-
-![Population Density](path_to_population_density_image)
 
 ## Conclusion
 
